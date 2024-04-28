@@ -29,7 +29,7 @@ SIZE 10M;
 
 CREATE TABLE Cliente (
     DNI VARCHAR(10) PRIMARY KEY,
-    Telefefono NUMBER(12) NOT NULL,
+    Telefono NUMBER(12) NOT NULL,
     Nombre VARCHAR(50) NOT NULL,
     Apellidos VARCHAR(50) NOT NULL,
     Edad NUMBER(3) NOT NULL,
